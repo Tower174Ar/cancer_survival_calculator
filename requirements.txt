@@ -7,3 +7,6 @@ lifelines==0.27.0
 sksurv==0.14.0
 scipy==1.10.1
 joblib==1.1.0
+markdown-it-py==3.0.0
+rich==14.1.0
+pygments==2.19.2
