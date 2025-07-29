@@ -1,0 +1,101 @@
+age,sex,race,ethnicity,income,residency,laterality,location,tumor_grade,tumor_size,surgery_status,radiotherapy,chemotherapy,survival_time,event_status,risk_score
+5-9,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Rural,Midline,Ventricle,High,33,No surgery,Yes,Yes,1.8239847174389334,1,0.4043815015490243
+10-14,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Urban,Left,Ventricle,High,28,GTR,No,Yes,21.089042592147948,1,0.7709113770642705
+15-19,Male,American Indian or Alaska Native,Hispanic,"≥75,000",Rural,Right,Cerebrum,High,65,GTR,Yes,Yes,6.84036065916482,1,0.42203605955068735
+<5,Female,Asian or Pacific Islander,Hispanic,"55,000-74,999",Rural,Left,Cerebrum,High,20,GTR,No,No,13.527083823030623,0,0.35387137656124945
+5-9,Male,White,Non-Hispanic,"55,000-74,999",Urban,Right,Cerebrum,High,70,No surgery,No,Yes,8.513246051199028,1,0.9586271773132206
+15-19,Female,Asian or Pacific Islander,Non-Hispanic,"≥75,000",Rural,Right,Ventricle,High,64,STR,Yes,Yes,60.71640830701141,1,0.1843709206789632
+<5,Male,Black,Non-Hispanic,"55,000-74,999",Rural,Right,Cerebellum,High,32,No surgery,Yes,Yes,13.959533393771924,0,0.09033696057760787
+15-19,Male,American Indian or Alaska Native,Non-Hispanic,"≥75,000",Urban,Right,Brainstem,Low,23,STR,Yes,No,12.275159870125197,1,0.7709859255354785
+<5,Male,White,Non-Hispanic,"55,000-74,999",Rural,Right,Brainstem,High,20,GTR,Yes,No,15.076575235173042,1,0.06824970535409158
+5-9,Female,American Indian or Alaska Native,Non-Hispanic,"≥75,000",Rural,Midline,Cerebrum,High,68,GTR,Yes,No,1.5446671290033085,1,0.8370789907030294
+10-14,Female,Black,Hispanic,"≥75,000",Rural,Left,Cerebrum,High,59,No surgery,No,No,2.28840489556759,1,0.4371933963572435
+<5,Female,Black,Non-Hispanic,"55,000-74,999",Urban,Midline,Ventricle,High,51,No surgery,Yes,No,12.519875569872404,0,0.915513677291914
+15-19,Female,Black,Hispanic,"55,000-74,999",Urban,Right,Brainstem,High,53,STR,No,No,6.811820236660485,1,0.7215328611219056
+5-9,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Urban,Left,Cerebrum,High,47,STR,No,No,14.050095706584019,1,0.6104046670079576
+<5,Female,Asian or Pacific Islander,Non-Hispanic,"<54,999",Rural,Right,Cerebellum,High,50,No surgery,Yes,No,1.086058100940562,1,0.9493067970577657
+15-19,Male,American Indian or Alaska Native,Hispanic,"<54,999",Rural,Left,Cerebellum,High,27,STR,No,Yes,7.689086606639036,0,0.3966493730520543
+15-19,Male,American Indian or Alaska Native,Non-Hispanic,"<54,999",Urban,Midline,Cerebrum,High,58,No surgery,No,Yes,4.761369042743451,1,0.9540869365396331
+15-19,Female,White,Hispanic,"≥75,000",Rural,Left,Cerebrum,High,45,STR,No,No,6.10646362881945,0,0.13500127742120693
+<5,Female,White,Non-Hispanic,"55,000-74,999",Rural,Left,Brainstem,High,77,No surgery,No,No,9.262346897307248,1,0.48375494193241275
+<5,Female,American Indian or Alaska Native,Hispanic,"≥75,000",Urban,Left,Brainstem,Low,53,No surgery,Yes,Yes,6.977343806180045,0,0.2699112223921949
+<5,Female,Asian or Pacific Islander,Non-Hispanic,"<54,999",Urban,Left,Ventricle,Low,73,No surgery,No,No,7.762258725847767,0,0.5398427789081934
+10-14,Female,Black,Non-Hispanic,"55,000-74,999",Rural,Left,Brainstem,High,73,STR,Yes,No,6.662277457563501,0,0.1620138778915846
+<5,Female,American Indian or Alaska Native,Non-Hispanic,"≥75,000",Rural,Right,Cerebellum,High,22,STR,Yes,No,5.258634219570002,0,0.8415296603100434
+<5,Female,White,Non-Hispanic,"55,000-74,999",Rural,Left,Cerebellum,Low,78,STR,No,Yes,14.778921549962853,1,0.8464078493145573
+<5,Female,Asian or Pacific Islander,Non-Hispanic,"≥75,000",Urban,Left,Cerebrum,High,69,No surgery,Yes,Yes,0.12278141143705712,1,0.955236312723479
+10-14,Male,American Indian or Alaska Native,Hispanic,"55,000-74,999",Urban,Midline,Brainstem,Low,31,STR,Yes,Yes,9.124050439600671,1,0.15467214088323622
+<5,Female,American Indian or Alaska Native,Hispanic,"<54,999",Urban,Left,Ventricle,Low,20,STR,Yes,Yes,8.335785457914348,1,0.6233325509049907
+15-19,Female,Asian or Pacific Islander,Hispanic,"<54,999",Urban,Midline,Cerebellum,Low,73,No surgery,No,Yes,12.594117845322687,1,0.4742373087003696
+<5,Male,American Indian or Alaska Native,Non-Hispanic,"55,000-74,999",Rural,Right,Cerebellum,Low,63,GTR,Yes,No,9.13867083228071,1,0.3443837320442332
+15-19,Female,Asian or Pacific Islander,Hispanic,"≥75,000",Urban,Left,Ventricle,Low,24,No surgery,Yes,Yes,17.533015150307357,1,0.3515401611342188
+15-19,Male,Black,Non-Hispanic,"<54,999",Urban,Midline,Ventricle,High,49,STR,Yes,No,31.960091359214786,1,0.41279355060675227
+15-19,Male,Asian or Pacific Islander,Non-Hispanic,"<54,999",Urban,Midline,Cerebellum,Low,49,No surgery,No,No,4.193474086579969,0,0.704925549688953
+10-14,Female,Asian or Pacific Islander,Hispanic,"<54,999",Urban,Right,Cerebellum,High,78,GTR,Yes,Yes,2.5793038658692464,1,0.5982860582681546
+10-14,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Urban,Left,Ventricle,High,76,No surgery,No,Yes,5.509479714650672,0,0.4596815127611311
+10-14,Male,American Indian or Alaska Native,Non-Hispanic,"55,000-74,999",Rural,Left,Cerebellum,Low,36,STR,No,No,3.3957851919139364,0,0.07593341036962209
+<5,Male,American Indian or Alaska Native,Hispanic,"≥75,000",Rural,Midline,Cerebrum,Low,67,GTR,No,No,9.543827664217432,0,0.07776534407895708
+15-19,Male,Asian or Pacific Islander,Non-Hispanic,"≥75,000",Urban,Left,Cerebrum,High,66,STR,No,No,24.287426971476517,1,0.0023393906257782593
+10-14,Female,American Indian or Alaska Native,Non-Hispanic,"≥75,000",Rural,Midline,Ventricle,Low,42,GTR,No,Yes,1.4979573620843076,0,0.9676993882070865
+10-14,Male,White,Non-Hispanic,"55,000-74,999",Urban,Left,Brainstem,Low,34,GTR,No,Yes,1.0624379787661027,0,0.005253818558384915
+<5,Female,White,Non-Hispanic,"55,000-74,999",Urban,Midline,Ventricle,High,56,No surgery,Yes,Yes,2.957351205143504,0,0.10309374601374488
+10-14,Male,American Indian or Alaska Native,Non-Hispanic,"≥75,000",Rural,Left,Ventricle,High,40,No surgery,No,Yes,12.94976087700202,1,0.3145965568094109
+<5,Male,American Indian or Alaska Native,Hispanic,"≥75,000",Rural,Right,Brainstem,Low,33,STR,Yes,Yes,8.988509558224926,1,0.8074302518167612
+5-9,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Urban,Left,Brainstem,High,21,No surgery,Yes,No,1.0782205857607432,1,0.9620987857641177
+10-14,Male,Black,Non-Hispanic,"≥75,000",Urban,Left,Brainstem,Low,30,No surgery,No,Yes,25.10230885617521,1,0.7900135587918561
+5-9,Female,American Indian or Alaska Native,Non-Hispanic,"<54,999",Urban,Right,Cerebrum,Low,70,GTR,Yes,No,15.61050863428892,1,0.6905602324456406
+<5,Female,White,Hispanic,"55,000-74,999",Rural,Left,Cerebellum,Low,58,No surgery,Yes,No,0.23291764144210325,0,0.5213006674135694
+15-19,Male,Asian or Pacific Islander,Hispanic,"≥75,000",Urban,Right,Cerebrum,High,57,GTR,Yes,No,10.537360911922647,0,0.0867052118621836
+10-14,Male,American Indian or Alaska Native,Non-Hispanic,"55,000-74,999",Urban,Left,Cerebellum,High,79,GTR,Yes,Yes,14.751110110844184,1,0.9581707930039304
+<5,Female,White,Hispanic,"<54,999",Urban,Midline,Cerebrum,High,53,GTR,No,Yes,4.691006286262172,0,0.7583924139456815
+15-19,Male,White,Non-Hispanic,"55,000-74,999",Rural,Midline,Cerebellum,High,57,STR,Yes,Yes,0.7141172960323707,1,0.6389493853342618
+15-19,Male,Black,Hispanic,"55,000-74,999",Urban,Left,Cerebrum,High,69,STR,No,No,0.8047395492678731,0,0.7590358455388498
+5-9,Male,Asian or Pacific Islander,Non-Hispanic,"55,000-74,999",Urban,Left,Brainstem,Low,53,STR,Yes,No,1.1009053575487184,0,0.7241033292731386
+<5,Female,Asian or Pacific Islander,Hispanic,"55,000-74,999",Rural,Left,Ventricle,Low,37,GTR,Yes,No,18.353329454824554,1,0.6372315797894869
+15-19,Female,Black,Non-Hispanic,"<54,999",Urban,Midline,Cerebrum,Low,49,STR,No,No,24.155992482348026,1,0.9805768001799882
+10-14,Female,Black,Hispanic,"55,000-74,999",Urban,Left,Cerebellum,Low,34,STR,Yes,No,1.310325537197483,0,0.9033638126360249
+10-14,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Rural,Midline,Brainstem,High,46,No surgery,Yes,No,2.6906450601073995,1,0.6466649191171634
+5-9,Male,Asian or Pacific Islander,Non-Hispanic,"≥75,000",Urban,Right,Cerebrum,Low,70,STR,Yes,Yes,1.8094711421379568,1,0.6931752114569247
+15-19,Female,American Indian or Alaska Native,Hispanic,"55,000-74,999",Rural,Midline,Cerebrum,High,53,STR,No,Yes,2.0618919154990594,0,0.05159580665871
+<5,Female,American Indian or Alaska Native,Non-Hispanic,"≥75,000",Rural,Midline,Brainstem,Low,71,GTR,Yes,Yes,18.170205957571817,1,0.6699174645500392
+10-14,Female,Black,Hispanic,"<54,999",Urban,Right,Cerebrum,High,76,GTR,No,Yes,4.036863100902401,0,0.044165437710100175
+15-19,Female,American Indian or Alaska Native,Non-Hispanic,"<54,999",Urban,Midline,Ventricle,High,57,GTR,Yes,No,3.7315901136028047,1,0.588263756969931
+15-19,Male,White,Hispanic,"<54,999",Urban,Left,Cerebrum,Low,52,GTR,No,No,2.5798816073225366,0,0.9993534995658349
+5-9,Female,American Indian or Alaska Native,Non-Hispanic,"<54,999",Urban,Left,Ventricle,Low,43,GTR,No,Yes,9.362240718882296,1,0.5558065814371796
+10-14,Male,American Indian or Alaska Native,Hispanic,"≥75,000",Rural,Midline,Ventricle,Low,34,GTR,Yes,No,4.769165861839353,0,0.4732101180813334
+10-14,Female,White,Non-Hispanic,"55,000-74,999",Urban,Left,Brainstem,Low,79,STR,Yes,Yes,13.635535128347641,0,0.31285485650558753
+<5,Male,Black,Hispanic,"<54,999",Rural,Midline,Cerebrum,High,49,GTR,No,Yes,2.301427491215707,1,0.12052257878646444
+10-14,Female,White,Non-Hispanic,"55,000-74,999",Urban,Left,Brainstem,Low,74,GTR,No,Yes,15.501784041471415,1,0.7310236714582816
+<5,Female,American Indian or Alaska Native,Non-Hispanic,"≥75,000",Urban,Left,Cerebrum,Low,61,No surgery,Yes,No,9.256381121571582,0,0.19259902778563043
+10-14,Female,Black,Non-Hispanic,"≥75,000",Urban,Midline,Cerebrum,High,70,STR,No,Yes,1.2134006696067452,1,0.11528202124728437
+5-9,Female,American Indian or Alaska Native,Hispanic,"≥75,000",Rural,Left,Cerebellum,Low,36,STR,Yes,Yes,5.352969255286074,1,0.4217626597305125
+10-14,Male,White,Non-Hispanic,"<54,999",Urban,Midline,Cerebrum,Low,24,STR,Yes,Yes,19.915635714523003,1,0.7953418379590974
+<5,Female,White,Hispanic,"55,000-74,999",Urban,Left,Brainstem,Low,48,GTR,Yes,No,25.634335203037104,1,0.7450645481202204
+<5,Male,American Indian or Alaska Native,Non-Hispanic,"55,000-74,999",Urban,Left,Ventricle,Low,23,GTR,Yes,No,6.267980289512716,0,0.054882614646474925
+5-9,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Urban,Right,Cerebrum,Low,29,GTR,No,Yes,6.55537337409571,1,0.4551436850361561
+10-14,Male,Asian or Pacific Islander,Non-Hispanic,"≥75,000",Rural,Right,Cerebellum,High,75,No surgery,Yes,No,25.06596890763501,1,0.5224345760711689
+10-14,Male,White,Hispanic,"<54,999",Urban,Midline,Brainstem,Low,36,GTR,No,No,8.84472891280706,1,0.6445466506258222
+5-9,Female,White,Hispanic,"≥75,000",Rural,Right,Cerebrum,Low,29,No surgery,Yes,No,0.3339823378563064,1,0.6501673504432282
+10-14,Male,Asian or Pacific Islander,Non-Hispanic,"≥75,000",Rural,Midline,Brainstem,Low,36,STR,No,No,24.38971561805413,1,0.36469724945730586
+10-14,Male,Asian or Pacific Islander,Hispanic,"55,000-74,999",Rural,Right,Cerebellum,Low,79,GTR,Yes,No,2.853201210659368,1,0.560677194003514
+<5,Male,American Indian or Alaska Native,Hispanic,"≥75,000",Rural,Left,Cerebellum,Low,39,No surgery,No,No,8.618781983425805,0,0.48106188384408644
+10-14,Female,American Indian or Alaska Native,Non-Hispanic,"55,000-74,999",Rural,Midline,Brainstem,High,43,No surgery,No,No,1.8093849457915503,1,0.8849983565232811
+10-14,Female,Asian or Pacific Islander,Hispanic,"<54,999",Rural,Midline,Cerebrum,Low,24,GTR,Yes,No,0.34466359680657443,1,0.5302651326349002
+5-9,Female,American Indian or Alaska Native,Hispanic,"55,000-74,999",Urban,Left,Ventricle,High,53,STR,Yes,No,3.7320099444518604,0,0.4410321617481616
+5-9,Female,American Indian or Alaska Native,Hispanic,"<54,999",Rural,Midline,Cerebellum,High,25,STR,Yes,No,15.163834910594298,1,0.40448544968185074
+15-19,Male,Black,Non-Hispanic,"55,000-74,999",Rural,Midline,Cerebrum,Low,72,STR,Yes,Yes,3.251585204332125,0,0.5724277594334657
+<5,Male,American Indian or Alaska Native,Hispanic,"≥75,000",Rural,Right,Cerebrum,Low,21,No surgery,No,Yes,2.4858600050319577,1,0.8039769794008976
+10-14,Female,White,Non-Hispanic,"≥75,000",Urban,Midline,Ventricle,Low,32,No surgery,Yes,No,2.3912150205441223,1,0.5384014903807876
+10-14,Male,American Indian or Alaska Native,Hispanic,"<54,999",Urban,Left,Cerebellum,Low,62,No surgery,No,Yes,7.239645602359394,1,0.6616551750805415
+15-19,Male,American Indian or Alaska Native,Hispanic,"<54,999",Rural,Right,Cerebellum,High,62,No surgery,No,Yes,37.1076993932582,1,0.737855766906525
+10-14,Male,Asian or Pacific Islander,Hispanic,"<54,999",Urban,Right,Cerebrum,Low,67,STR,Yes,No,6.143156454759239,0,0.5201681098787319
+<5,Female,White,Non-Hispanic,"55,000-74,999",Rural,Left,Cerebrum,Low,30,GTR,No,No,8.14875066921033,1,0.42681705665486436
+15-19,Female,American Indian or Alaska Native,Hispanic,"55,000-74,999",Rural,Left,Ventricle,Low,70,No surgery,No,No,19.706374906147445,1,0.8766653778624495
+<5,Male,American Indian or Alaska Native,Hispanic,"<54,999",Urban,Right,Ventricle,Low,66,No surgery,No,Yes,7.658678178265489,1,0.41750608402789213
+15-19,Female,Black,Non-Hispanic,"≥75,000",Rural,Midline,Cerebellum,Low,76,STR,No,Yes,2.0390832934784564,1,0.4619428505755876
+15-19,Female,American Indian or Alaska Native,Hispanic,"55,000-74,999",Urban,Right,Brainstem,Low,42,GTR,Yes,No,3.560978415892988,0,0.9903413133417771
+5-9,Female,American Indian or Alaska Native,Non-Hispanic,"55,000-74,999",Urban,Left,Cerebellum,High,74,GTR,Yes,No,3.7097227436366986,1,0.0002375235758845795
+<5,Female,Black,Non-Hispanic,"55,000-74,999",Rural,Right,Cerebrum,High,35,STR,Yes,No,5.0636577611692,1,0.18547290957672247
+10-14,Female,Asian or Pacific Islander,Hispanic,"<54,999",Rural,Left,Cerebellum,Low,50,STR,Yes,Yes,5.5650122755729035,1,0.38396388991972574
+10-14,Male,American Indian or Alaska Native,Non-Hispanic,"<54,999",Urban,Right,Brainstem,Low,30,GTR,No,Yes,16.08348616303956,1,0.9325899094252529
+<5,Female,Black,Hispanic,"<54,999",Rural,Midline,Ventricle,Low,73,No surgery,No,Yes,4.298402821258407,0,0.07002970574747103
